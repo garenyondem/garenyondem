@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 👋
 
 I'm a software developer with a keen interest in backend development and systems design. You can find some of my work here. Though, don't be surprised, in recent years JS/TS has been my daily driver. Yet you may find interesting ideas here. Enjoy!
 
