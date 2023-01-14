@@ -1,4 +1,4 @@
-Hi, I'm a software developer with a keen interest in backend development and systems design.
+Hi, I'm a software developer with a keen interest in backend technologies and systems design.
 
 Currently a full-time Lead Software Engineer.
 
