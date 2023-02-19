@@ -7,4 +7,5 @@ You can find some of my work here. Though, don't be surprised, in recent years J
 Enjoy!
 
 ###### PGP: [5FFF 7796 6F2C 2505](https://keybase.io/garen/key.asc)
-[![Linkedin: garenyondem](https://img.shields.io/badge/-garenyondem-gray?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garenyondem)](https://www.linkedin.com/in/garenyondem/)
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=garenyondem&logo=linkedin&logoColor=white&style=flat-square&message=connect&link=https://www.linkedin.com/in/garenyondem)](https://www.linkedin.com/in/garenyondem)
