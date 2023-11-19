@@ -1,8 +1,8 @@
-Hi, I'm a software developer with a keen interest in backend technologies and systems design.
+Welcome, have a seat. I'm a Backend Developer with vast experience in designing and building scalable and efficient backend systems. 
 
 Currently a full-time Lead Software Engineer.
 
-You can find some of my work here. Though, don't be surprised, in recent years JS/TS has been my daily driver. Yet you may find interesting stuff. 
+You can find some of my open-source work here. Though, don't be surprised, in recent years JS & TS has been my daily driver.
 
 Enjoy!
 
