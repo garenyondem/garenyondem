@@ -1,10 +1,10 @@
-Welcome, have a seat. I'm a Backend Developer with vast experience in designing and building scalable and efficient backend systems. 
+Hi there! 👋
 
-Currently a full-time Lead Software Engineer.
+I'm currently a full-time Lead Backend Developer with experience in designing and building scalable, efficient backend systems.
 
-You can find some of my open-source work here. Though, don't be surprised, in recent years JS & TS has been my daily driver.
+You can find some of my open-source work here.
 
-Enjoy!
+Hope you like them!
 
 ###### PGP: [5FFF 7796 6F2C 2505](https://keybase.io/garen/key.asc)
 
