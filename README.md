@@ -1,9 +1,9 @@
 
 ## Hi, I'm Garen👋
 
-Lead Backend Developer passionate about designing and building scalable, high‑performance systems.
+Passionate about designing and building scalable, high‑performance systems.
 
-Over the years, I've worked across diverse domains such as casual gaming to ride hailing to AI enabled CX - always with a focus on cloud-native architectures, system optimization, and team leadership.
+Over the years, I've worked across different domains in corporate and startups. Always with a focus on cloud-native architectures, system optimization, and tech leadership.
 
 Check out my open-source projects below. Collaboration and fresh ideas are always welcome!
 
